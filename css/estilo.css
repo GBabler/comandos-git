@@ -10,7 +10,7 @@ body{
 main{
 
         background-color: rgba(87, 82, 82, 0.048);
-        width: 500px;
+        width: 650px;
         margin: auto;
         padding: 50px;
         box-shadow:  5px 5px 5px 10px rgba(0, 0, 0, 0.226);
@@ -38,6 +38,12 @@ main{
 .titulogit{
     text-align: center;
     font-size: 25px;
+}
+
+p{
+
+    font-size: 20px;
+
 }
 
 
